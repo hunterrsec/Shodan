@@ -19,15 +19,15 @@ How to Use Shodan-Tool:
 
 1.Clone the Repository: Begin by cloning the Shodan-Tool repository from GitHub:
 
-git clone https://github.com/hunterrsec/Shodan-Tool.git
+   git clone https://github.com/hunterrsec/Shodan-Tool.git
 
 2. Navigate to the Directory: Move into the cloned directory:
 
-cd Shodan-Tool
+    cd Shodan-Tool
 
 3. Install Dependencies: Ensure you have the necessary dependencies installed. Typically, this involves installing the Shodan Python library:
 
-pip install shodan
+     pip install shodan
 
 4. Obtain a Shodan API Key: To use the tool, you'll need a Shodan API key. Register for an account on Shodan and retrieve your API key from your account dashboard.
 
