@@ -19,7 +19,7 @@ How to Use Shodan-Tool:
 
 1.Clone the Repository: Begin by cloning the Shodan-Tool repository from GitHub:
 
-   git clone https://github.com/hunterrsec/Shodan-Tool.git
+     git clone https://github.com/hunterrsec/Shodan-Tool.git
 
 2. Navigate to the Directory: Move into the cloned directory:
 
