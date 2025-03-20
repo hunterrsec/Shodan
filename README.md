@@ -3,5 +3,15 @@ This script is a Shodan-based network reconnaissance tool that utilizes the Shod
 
 Scanning the Domain/Network for reconnaissance.
 
+Disclaimer: This document is for educational purposes only. Exploiting systems without authorization is illegal and punishable by law.
+
+Stay ethical. Stay legal. Secure responsibly.
+
+Thanks, Everyone for reading. Enjoy Happy Ethical Hacking!
+
+Support me if you like my work!
+
+Buy me a coffee
+
 ![image](https://github.com/user-attachments/assets/6e2fecca-dcea-4741-ac01-499756a58257)
 
