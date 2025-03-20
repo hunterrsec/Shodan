@@ -11,7 +11,7 @@ Thanks, Everyone for reading. Enjoy Happy Ethical Hacking!
 
 Support me if you like my work!
 
-Buy me a coffee
+https://buymeacoffee.com/Ajaynaik/e/311011
 
 ![image](https://github.com/user-attachments/assets/6e2fecca-dcea-4741-ac01-499756a58257)
 
