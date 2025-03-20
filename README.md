@@ -13,5 +13,7 @@ Support me if you like my work!
 
 https://buymeacoffee.com/Ajaynaik/e/311011
 
-![image](https://github.com/user-attachments/assets/6e2fecca-dcea-4741-ac01-499756a58257)
+![image](https://github.com/user-attachments/assets/832f379b-e9cd-499f-8379-07da1b6ceb7a)
+![image](https://github.com/user-attachments/assets/85a09010-1432-4b76-8a45-cd8168a815c0)
+
 
